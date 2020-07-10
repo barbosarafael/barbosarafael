@@ -1,8 +1,19 @@
-## Sobre mim 
+# Sobre mim 
 
-Olá, meu nome é Rafael Barbosa, estatístico (UFPA) e estudante na área de *Data Science*. Anteriormente estagiei na [SEFA-PA](http://www.sefa.pa.gov.br/), onde utilizava dados para tomada de decisões e previsão de Séries Temporais. Também fui bolsista de estatística na UFPA, onde utilizei a estatística para ajudar em diversas áreas, principalmente na parte de modelagem e visualização de dados.
+Olá, meu nome é Rafael Barbosa, estatístico (UFPA) e estudante na área de *Data Science*. Anteriormente estagiei na [SEFA-PA](http://www.sefa.pa.gov.br/), onde utilizava dados para tomada de decisões e previsão de Séries Temporais. Também fui bolsista de estatística na UFPA, onde utilizei a estatística para ajudar em diversas áreas, principalmente na parte de modelagem e visualização de dados. E eu amo batata frita.
 
 
+## Competências/Habilidades
+
+- Modelagem, análise e visualização de dados
+- Softwares: Python, R, Excel e SQL
+- Machine Learning 
+
+
+## Idiomas
+
+- Português: Nativo
+- Inglês: Leitura: Intermediário | Escrita: Básico | Fala: Básico
 
 
 <p>
