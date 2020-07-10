@@ -10,10 +10,22 @@ Olá, meu nome é Rafael Barbosa, estatístico (UFPA) e estudante na área de *D
 - Machine Learning 
 
 
+## Projetos/Portfólio em Data Science
+
+Meus projetos em *Data Science* podem ser encontrados aqui mesmo no Github: https://github.com/barbosarafael/Projetos. Neles você irá encontrar:
+
+- Modelos de previsão (classificação e regressão)
+- Visualização e análise de dados
+- Tutoriais em Python e R
+
 ## Idiomas
 
 - Português: Nativo
 - Inglês: Leitura: Intermediário | Escrita: Básico | Fala: Básico
+
+## Do que eu gosto?
+
+Batata frita
 
 
 <p>
