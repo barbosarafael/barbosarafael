@@ -5,18 +5,15 @@ Estatístico formado pela Universidade Federal do Pará, com interesse em
 
 <p>
   <a href="https://www.linkedin.com/in/rafael-barbosa0/" rel="nofollow noreferrer">
-    <img src="https://image.flaticon.com/icons/svg/1409/1409945.svg" alt="linkedin" width="50" height="35"> LinkedIn
+    <img src="https://image.flaticon.com/icons/svg/1409/1409945.svg" alt="linkedin" width="35" height="25"> LinkedIn
   </a> &nbsp; 
-  <a href="https://github.com/[removed]" rel="nofollow noreferrer">
-    <img src="https://image.flaticon.com/icons/svg/281/281786.svg" width="50" height="35" /> Gmail
+  <a href="mailto:lul.rafaelbarbosa@gmail.com" rel="nofollow noreferrer">
+    <img src="https://image.flaticon.com/icons/svg/281/281786.svg" width="35" height="25" /> Gmail
+  </a>
+  <a href="https://twitter.com/RafaelbarbosaS_" rel="nofollow noreferrer">
+    <img src="https://image.flaticon.com/icons/svg/733/733579.svg" width="35" height="25" /> Twitter
   </a>
 </p>
-
-<!--
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/rafael-barbosa0/)&nbsp;
-[![Gmail](https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-15.png)](mailto:lul.rafaelbarbosa@gmail.com)
-[![Gmail](https://media-public.canva.com/MADnBogvtPM/3/thumbnail_large.png =250x)](mailto:lul.rafaelbarbosa@gmail.com)
-<img src="https://image.flaticon.com/icons/svg/281/281786.svg" width="50" height="35" />
 
 
 
