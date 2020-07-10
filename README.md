@@ -1,6 +1,6 @@
 # Sobre mim 
 
-Olá, meu nome é Rafael Barbosa, estatístico (UFPA) e estudante na área de *Data Science*. Anteriormente estagiei na [SEFA-PA](http://www.sefa.pa.gov.br/), onde utilizava dados para tomada de decisões e previsão de Séries Temporais. Também fui bolsista de estatística na UFPA, onde utilizei a estatística para ajudar em diversas áreas, principalmente na parte de modelagem e visualização de dados. E eu amo batata frita.
+Olá, meu nome é Rafael Barbosa, estatístico (UFPA). Atualmente sou freelancer como estatístico e estudante na área de *Data Science* (a procura de algum job), anteriormente estagiei na [SEFA-PA](http://www.sefa.pa.gov.br/), onde utilizava dados para tomada de decisões e previsão de Séries Temporais. Também fui bolsista de estatística na UFPA, onde utilizei a estatística para ajudar em diversas áreas, principalmente na parte de modelagem e visualização de dados.
 
 
 ## Competências/Habilidades
@@ -25,10 +25,10 @@ Meus projetos em *Data Science* podem ser encontrados aqui mesmo no Github: http
 
 ## Do que eu gosto?
 
-Batata frita
+Minha família e batata frita. 
 
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/rafael-barbosa0/" rel="nofollow noreferrer">
     <img src="https://image.flaticon.com/icons/svg/1409/1409945.svg" alt="linkedin" width="35" height="25"> LinkedIn
   </a> &nbsp;
@@ -39,8 +39,6 @@ Batata frita
     <img src="https://image.flaticon.com/icons/svg/733/733579.svg" width="35" height="25" /> Twitter
   </a>
 </p>
-
-
 
 
 <!--
