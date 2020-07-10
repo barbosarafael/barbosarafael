@@ -6,10 +6,10 @@ Estatístico formado pela Universidade Federal do Pará, com interesse em
 <p>
   <a href="https://www.linkedin.com/in/rafael-barbosa0/" rel="nofollow noreferrer">
     <img src="https://image.flaticon.com/icons/svg/1409/1409945.svg" alt="linkedin" width="35" height="25"> LinkedIn
-  </a> &nbsp; 
+  </a> &nbsp; |
   <a href="mailto:lul.rafaelbarbosa@gmail.com" rel="nofollow noreferrer">
     <img src="https://image.flaticon.com/icons/svg/281/281786.svg" width="35" height="25" /> Gmail
-  </a>
+  </a> |
   <a href="https://twitter.com/RafaelbarbosaS_" rel="nofollow noreferrer">
     <img src="https://image.flaticon.com/icons/svg/733/733579.svg" width="35" height="25" /> Twitter
   </a>
