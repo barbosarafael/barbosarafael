@@ -20,7 +20,7 @@ Meus projetos em *Data Science* podem ser encontrados aqui mesmo no Github. Algu
 
 - Prevendo o preço das casas a serem vendidas ([Parte 1](https://nbviewer.jupyter.org/github/barbosarafael/Projetos/blob/master/House%20Prices%20-%20Advanced%20Regression%20Techniques/notebook_house_prices.ipynb) e [Parte 2](https://nbviewer.jupyter.org/github/barbosarafael/Projetos/blob/master/House%20Prices%20-%20Advanced%20Regression%20Techniques/notebook_2.ipynb))
 
-- [Prevendo quem irá sobreviver ou não no Titanic] ([Parte 1](https://nbviewer.jupyter.org/github/barbosarafael/Projetos/blob/master/Titanic%20-%20Kaggle/notebook_titanic_kaggle.ipynb) e [Parte 2](https://nbviewer.jupyter.org/github/barbosarafael/Projetos/blob/master/Titanic%20-%20Kaggle/2notebook_titanic_kaggle.ipynb))
+- Prevendo quem irá sobreviver ou não no Titanic ([Parte 1](https://nbviewer.jupyter.org/github/barbosarafael/Projetos/blob/master/Titanic%20-%20Kaggle/notebook_titanic_kaggle.ipynb) e [Parte 2](https://nbviewer.jupyter.org/github/barbosarafael/Projetos/blob/master/Titanic%20-%20Kaggle/2notebook_titanic_kaggle.ipynb))
 
 - [Análise da #BelemAlagada no Twitter](https://github.com/barbosarafael/Projetos/blob/master/Twitter%20-%20Analise%20%23BelemAlagada/2020-03-10-analise-belemalagada.md)
 
