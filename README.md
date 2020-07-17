@@ -1,6 +1,6 @@
 # Sobre mim 
 
-Olá, meu nome é Rafael Barbosa, estatístico formado pela [Universidade Federal do Pará](https://portal.ufpa.br/) (UFPA). Atualmente trabalho como estatístico freelancer e estudante na área de *Data Science* 🔭 (a procura de algum job), anteriormente estagiei na [Secretaria Estadual da Fazenda - PA](http://www.sefa.pa.gov.br/), onde utilizava dados para tomada de decisões e previsão de Séries Temporais. Também fui bolsista de estatística na UFPA, onde utilizei a estatística para ajudar em diversas áreas, principalmente na parte de modelagem e visualização de dados.
+Olá, meu nome é Rafael Barbosa, estatístico formado pela [Universidade Federal do Pará](https://portal.ufpa.br/) (UFPA). Atualmente trabalho como estatístico freelancer e estudante na área de *Data Science* (a procura de algum job 🔭), anteriormente estagiei na [Secretaria Estadual da Fazenda - PA](http://www.sefa.pa.gov.br/), onde utilizava dados para tomada de decisões e previsão de Séries Temporais. Também fui bolsista de estatística na UFPA, onde utilizei a estatística para ajudar em diversas áreas, principalmente na parte de modelagem e visualização de dados.
 
 
 ## Competências/Habilidades
@@ -17,10 +17,6 @@ Meus projetos em *Data Science* podem ser encontrados aqui mesmo no Github: http
 - Modelos de previsão (classificação e regressão)
 - Visualização e análise de dados
 - Tutoriais em Python e R
-
-## Do que eu gosto?
-
-Minha família e batata frita. 
 
 
 <p align="center">
