@@ -15,17 +15,11 @@ Olá, meu nome é Rafael Barbosa, estatístico formado pela [Universidade Federa
 Meus projetos em *Data Science* podem ser encontrados aqui mesmo no Github. Alguns deles são:
 
 - Qual a probabilidade de ter um pedido atrasado? ([Parte 1](https://nbviewer.jupyter.org/github/barbosarafael/Projetos/blob/master/iNeuron_Back_order_prediction_Notebook/1parte_hackaton_ineuron_back_order_prediction.ipynb) e [Parte 2](https://nbviewer.jupyter.org/github/barbosarafael/Aprendizado-Python/blob/master/Pandas_Aprendizado/parte2_ineuron_BackOrderPrediction.ipynb))
-
 - [Aplicação da Árvore de Decisão (CART)](https://nbviewer.jupyter.org/github/barbosarafael/Projetos/blob/master/Arvore_de_decisao_CART/arvore_de_decisao.ipynb)
-
 - Prevendo o preço das casas a serem vendidas ([Parte 1](https://nbviewer.jupyter.org/github/barbosarafael/Projetos/blob/master/House%20Prices%20-%20Advanced%20Regression%20Techniques/notebook_house_prices.ipynb) e [Parte 2](https://nbviewer.jupyter.org/github/barbosarafael/Projetos/blob/master/House%20Prices%20-%20Advanced%20Regression%20Techniques/notebook_2.ipynb))
-
 - Prevendo quem irá sobreviver ou não no Titanic ([Parte 1](https://nbviewer.jupyter.org/github/barbosarafael/Projetos/blob/master/Titanic%20-%20Kaggle/notebook_titanic_kaggle.ipynb) e [Parte 2](https://nbviewer.jupyter.org/github/barbosarafael/Projetos/blob/master/Titanic%20-%20Kaggle/2notebook_titanic_kaggle.ipynb))
-
 - [Análise da #BelemAlagada no Twitter](https://github.com/barbosarafael/Projetos/blob/master/Twitter%20-%20Analise%20%23BelemAlagada/2020-03-10-analise-belemalagada.md)
-
 - [Análise do dataset do COVID-19](https://github.com/barbosarafael/Projetos/blob/master/Analise%20Exploratoria%20-%20COVID-19/2020-03-15-analise-exploratoria-dos-dados-do-covid-19.md)
-
 - [Retirando dados do Telegram da R-Brasil](https://github.com/barbosarafael/Projetos/blob/master/Analise_Telegram_R/Script.md)
 
 
