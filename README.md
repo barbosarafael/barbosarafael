@@ -27,6 +27,7 @@ Meus projetos em *Data Science* podem ser encontrados aqui mesmo no Github. Algu
 
 - [Regressão Linear](https://github.com/barbosarafael/Grupo_DS_Avancado/blob/master/01Reg_Linear/1234Not_RegLinear.ipynb)
 - [Regressão Lasso e Ridge](https://github.com/barbosarafael/Grupo_DS_Avancado/blob/master/02Lasso_Ridge/notebook_lasso_ridge.ipynb)
+- [Regressão Logística e Gradiente Descendente](https://github.com/barbosarafael/Grupo_DS_Avancado/blob/master/03Logistica_Gradiente/Logistica_e_Gradiente.ipynb)
 
 
 
