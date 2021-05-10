@@ -14,6 +14,7 @@ Olá, meu nome é Rafael Barbosa, estatístico formado pela [Universidade Federa
 
 Meus projetos em *Data Science* podem ser encontrados aqui mesmo no Github. Alguns deles são:,
 
+- Treinando Pipelines do Sklearn ([Pipelines com múltiplos encoders](https://nbviewer.jupyter.org/github/barbosarafael/sklearn_pipelines_examples/blob/main/notebook/1.0.not_apply_sk_pipeline.ipynb) e [Pycaret](https://nbviewer.jupyter.org/github/barbosarafael/sklearn_pipelines_examples/blob/main/notebook/2.0.testing_pycaret.ipynb))
 - Qual a probabilidade de ter um pedido atrasado? ([Parte 1](https://nbviewer.jupyter.org/github/barbosarafael/Projetos/blob/master/iNeuron_Back_order_prediction_Notebook/1parte_hackaton_ineuron_back_order_prediction.ipynb) e [Parte 2](https://nbviewer.jupyter.org/github/barbosarafael/Aprendizado-Python/blob/master/Pandas_Aprendizado/parte2_ineuron_BackOrderPrediction.ipynb))
 - [Aplicação da Árvore de Decisão (CART)](https://nbviewer.jupyter.org/github/barbosarafael/Projetos/blob/master/Arvore_de_decisao_CART/arvore_de_decisao.ipynb)
 - Prevendo o preço das casas a serem vendidas ([Parte 1](https://nbviewer.jupyter.org/github/barbosarafael/Projetos/blob/master/House%20Prices%20-%20Advanced%20Regression%20Techniques/notebook_house_prices.ipynb) e [Parte 2](https://nbviewer.jupyter.org/github/barbosarafael/Projetos/blob/master/House%20Prices%20-%20Advanced%20Regression%20Techniques/notebook_2.ipynb))
