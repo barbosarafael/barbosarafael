@@ -1,61 +1,47 @@
-# Sobre mim 
+# Sobre mim <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Olá, meu nome é Rafael Barbosa, estatístico formado pela [Universidade Federal do Pará](https://portal.ufpa.br/) (UFPA). Atualmente trabalho na [Juntos Somos Mais](https://www.juntossomosmais.com.br/), uma startup focada em construção civil, como Analista de Data Analytics. Anteriormente trabalhei como Estatístico freelancer,  estudante na área de *Data Science*, estagiei na [Secretaria Estadual da Fazenda - PA](http://www.sefa.pa.gov.br/), onde utilizava dados para tomada de decisões e previsão de Séries Temporais e, também, fui bolsista de estatística na UFPA, onde utilizei a estatística para ajudar em diversas áreas, principalmente na parte de modelagem e visualização de dados. 
+Salve! Meu nome é Rafael Barbosa, estatístico formado pela Universidade Federal do Pará (UFPA). Atualmente trabalho como Cientista de Dados na [MarketData](https://www.marketdata.com.br/), uma consultoria de dados. Previamente trabalhei na [Juntos Somos Mais](https://www.juntossomosmais.com.br/home/institucional) como Analista de Dados e estagiário em Estatística na [Secretaria Estadual da Fazenda - PA (SEFA-PA)](http://www.sefa.pa.gov.br/institucional). 
 
+Geralmente trabalho com análise e visualização de dados, e criação de modelos de Machine Learning voltado sempre à negócios. Às vezes faço umas lives na Twitch para estudar coisas aleatórias de dados e tento contribuir com a comunidade quando sobra um tempinho. 
 
-## Competências/Habilidades
+--- 
 
-- Modelagem, análise e visualização de dados
-- Softwares: Python, R, Excel e SQL
-- Machine Learning (previsão, classificação, regressão, etc)
+<h3 align="left"> 🔭 Projetos: </h3>
 
+Se você gostaria de verificar alguns dos projetos que fiz utilizando análise exploratória, visualização e modelagem de machine learning no geral, pode consultar esse repositório, onde possui uma lista dos trabalhos recentes que ando fazendo:
 
-## Projetos/Portfólio em Data Science
-
-Meus projetos em *Data Science* podem ser encontrados aqui mesmo no Github. Alguns deles são:,
-
-- Treinando Pipelines do Sklearn ([Pipelines com múltiplos encoders](https://nbviewer.jupyter.org/github/barbosarafael/sklearn_pipelines_examples/blob/main/notebook/1.0.not_apply_sk_pipeline.ipynb) e [Pycaret](https://nbviewer.jupyter.org/github/barbosarafael/sklearn_pipelines_examples/blob/main/notebook/2.0.testing_pycaret.ipynb))
-- Qual a probabilidade de ter um pedido atrasado? ([Parte 1](https://nbviewer.jupyter.org/github/barbosarafael/Projetos/blob/master/iNeuron_Back_order_prediction_Notebook/1parte_hackaton_ineuron_back_order_prediction.ipynb) e [Parte 2](https://nbviewer.jupyter.org/github/barbosarafael/Aprendizado-Python/blob/master/Pandas_Aprendizado/parte2_ineuron_BackOrderPrediction.ipynb))
-- [Aplicação da Árvore de Decisão (CART)](https://nbviewer.jupyter.org/github/barbosarafael/Projetos/blob/master/Arvore_de_decisao_CART/arvore_de_decisao.ipynb)
-- Prevendo o preço das casas a serem vendidas ([Parte 1](https://nbviewer.jupyter.org/github/barbosarafael/Projetos/blob/master/House%20Prices%20-%20Advanced%20Regression%20Techniques/notebook_house_prices.ipynb) e [Parte 2](https://nbviewer.jupyter.org/github/barbosarafael/Projetos/blob/master/House%20Prices%20-%20Advanced%20Regression%20Techniques/notebook_2.ipynb))
-- Prevendo quem irá sobreviver ou não no Titanic ([Parte 1](https://nbviewer.jupyter.org/github/barbosarafael/Projetos/blob/master/Titanic%20-%20Kaggle/notebook_titanic_kaggle.ipynb) e [Parte 2](https://nbviewer.jupyter.org/github/barbosarafael/Projetos/blob/master/Titanic%20-%20Kaggle/2notebook_titanic_kaggle.ipynb))
-- [Análise da #BelemAlagada no Twitter](https://github.com/barbosarafael/Projetos/blob/master/Twitter%20-%20Analise%20%23BelemAlagada/2020-03-10-analise-belemalagada.md)
-- [Análise do dataset do COVID-19](https://github.com/barbosarafael/Projetos/blob/master/Analise%20Exploratoria%20-%20COVID-19/2020-03-15-analise-exploratoria-dos-dados-do-covid-19.md)
-- [Retirando dados do Telegram da R-Brasil](https://github.com/barbosarafael/Projetos/blob/master/Analise_Telegram_R/Script.md)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=barbosarafael&repo=Projects)](https://github.com/barbosarafael/Projects)
 
 
-## Modelos e Teoria
-
-- [Regressão Linear](https://github.com/barbosarafael/Grupo_DS_Avancado/blob/master/01Reg_Linear/1234Not_RegLinear.ipynb)
-- [Regressão Lasso e Ridge](https://github.com/barbosarafael/Grupo_DS_Avancado/blob/master/02Lasso_Ridge/notebook_lasso_ridge.ipynb)
-- [Regressão Logística e Gradiente Descendente](https://github.com/barbosarafael/Grupo_DS_Avancado/blob/master/03Logistica_Gradiente/Logistica_e_Gradiente.ipynb)
+---
 
 
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/rafael-barbosa0/" rel="nofollow noreferrer">
-    <img src="https://image.flaticon.com/icons/svg/1409/1409945.svg" alt="linkedin" width="35" height="25"> LinkedIn
-  </a> &nbsp;
-  <a href="mailto:lul.rafaelbarbosa@gmail.com" rel="nofollow noreferrer">
-    <img src="https://image.flaticon.com/icons/svg/281/281786.svg" width="35" height="25" /> Gmail
-  </a>
-  <a href="https://twitter.com/RafaelbarbosaS_" rel="nofollow noreferrer">
-    <img src="https://image.flaticon.com/icons/svg/733/733579.svg" width="35" height="25" /> Twitter
-  </a>
+<h3 align="left"> :mailbox: Minhas redes sociais: </h3>
+<p align="left">
+<a href="https://twitter.com/rafaelbarbosas_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rafaelbarbosas_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rafael-barbosa0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafael-barbosa0" height="30" width="40" /></a>
+<a href="https://www.twitch.tv/rafaelbarbosas" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitch/twitch-official.svg" alt="rafaelbarbosas" height="30" width="40" /></a>
 </p>
 
+---
 
-<!--
-**barbosarafael/barbosarafael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left"> :hammer_and_wrench: Ferramentas:</h3>
+<p align="left"> 
+
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" alt="rstats" width="40" height="40"/> </a> 
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a> 
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/> </a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/1101px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="excel" width="40" height="40"/> </a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://tidyverse.tidyverse.org/articles/tidyverse-logo.png" alt="tidyverse" width="40" height="40"/> </a> 
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/max/800/1*nPcdyVwgcuEZiEZiRqApug.jpeg" alt="pyspark" width="40" height="40"/> </a> 
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="pyspark" width="40" height="40"/> </a> 
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="pyspark" width="40" height="40"/> </a> 
+
+</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=barbosarafael&show_icons=true&locale=en&layout=compact" alt="barbosarafael" /></p>
