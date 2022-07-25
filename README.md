@@ -39,9 +39,10 @@ Se você gostaria de verificar alguns dos projetos que fiz utilizando análise e
 <a href="https://chrome.google.com/webstore/detail/excel-online/iljnkagajgfdmfnnidjijobijlfjfgnb?hl=pt" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/1101px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="excel" width="40" height="40"/> </a>
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
 <a href="https://www.tidyverse.org/" target="_blank" rel="noreferrer"> <img src="https://tidyverse.tidyverse.org/articles/tidyverse-logo.png" alt="tidyverse" width="40" height="40"/> </a> 
+<a href="https://azure.microsoft.com/pt-br/services/databricks/" target="_blank" rel="noreferrer"> <img src="https://me.devoteam.com/wp-content/uploads/sites/10/2021/04/databricks-logo.png" alt="databricks" width="40" height="40"/> </a> 
 <a href="https://spark.apache.org/docs/latest/api/python/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/max/800/1*nPcdyVwgcuEZiEZiRqApug.jpeg" alt="pyspark" width="40" height="40"/> </a> 
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> 
-<a href="https://ubuntu.com/download" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="pyspark" width="40" height="40"/> </a> 
+<a href="https://ubuntu.com/download" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu" width="40" height="40"/> </a> 
 
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=barbosarafael&show_icons=true&locale=en&layout=compact" alt="barbosarafael" /></p>
