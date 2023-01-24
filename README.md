@@ -8,13 +8,20 @@ Geralmente trabalho com análise e visualização de dados, e criação de model
 
 <h3 align="left"> 🔭 Projetos: </h3>
 
-Se você gostaria de verificar alguns dos projetos que fiz utilizando análise exploratória, visualização e modelagem de machine learning no geral, pode consultar esse repositório, onde possui uma lista dos trabalhos recentes que ando fazendo:
+Se você gostaria de verificar alguns dos projetos que fiz utilizando análise exploratória de dados, visualização e modelagem estatística/machine learning no geral, pode consultar esse repositório, onde possui uma lista dos trabalhos pessoais/profissionais recentes que ando fazendo:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=barbosarafael&repo=Projects)](https://github.com/barbosarafael/Projects)
 
 
 ---
 
+<h3 align="left"> 👨‍💻 Roadmap de Ciência de Dados: </h3>
+
+Depois de um bom tempo procrastinando, separei algumas dicas desse aprendizado em ± 2 anos trabalhando (CLT) no mundo de dados. Elas estão compiladas nesse repositório:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=barbosarafael&repo=roadmap_aprendizado_data_science)](https://github.com/barbosarafael/roadmap_aprendizado_data_science)
+
+---
 
 <h3 align="left"> :mailbox: Minhas redes sociais: </h3>
 <p align="left">
