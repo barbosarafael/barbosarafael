@@ -2,7 +2,7 @@
 
 Salve! Meu nome é Rafael Barbosa, estatístico formado pela Universidade Federal do Pará (UFPA). Atualmente trabalho como Cientista de Dados na [MarketData](https://www.marketdata.com.br/), uma consultoria de dados. Previamente trabalhei na [Juntos Somos Mais](https://www.juntossomosmais.com.br/home/institucional) como Analista de Dados e estagiário em Estatística na [Secretaria Estadual da Fazenda - PA (SEFA-PA)](http://www.sefa.pa.gov.br/institucional). 
 
-Geralmente trabalho com análise e visualização de dados, e criação de modelos de Machine Learning voltado sempre à negócios. Às vezes faço umas lives na Twitch para estudar coisas aleatórias de dados e tento contribuir com a comunidade quando sobra um tempinho. 
+Geralmente trabalho com análise e visualização de dados, e criação de modelos de Machine Learning voltado sempre à negócios. 
 
 --- 
 
