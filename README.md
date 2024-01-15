@@ -8,7 +8,7 @@ Geralmente trabalho com análise e visualização de dados, e criação de model
 
 <h3 align="left"> 🔭 Projetos: </h3>
 
-Se você gostaria de verificar alguns dos projetos que fiz utilizando análise exploratória de dados, visualização e modelagem estatística/machine learning no geral, pode consultar esse repositório, onde possui uma lista dos trabalhos pessoais/profissionais recentes que ando fazendo:
+Se você gostaria de ver alguns dos projetos que fiz utilizando análise exploratória de dados, visualização e modelagem estatística/machine learning no geral, pode consultar esse repositório, onde possui uma lista dos trabalhos pessoais/profissionais recentes que ando fazendo:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=barbosarafael&repo=Projects)](https://github.com/barbosarafael/Projects)
 
