@@ -24,22 +24,22 @@ If you’d like to see some of the projects I’ve worked on using exploratory d
 - [COVID Analysis](https://github.com/barbosarafael/Projetos/tree/master/Analise%20Exploratoria%20-%20COVID-19) (PT-BR)
 - [Telegram scrapping R-Brasil group](https://github.com/barbosarafael/Projetos/tree/master/Analise_Telegram_R) (PT-BR)
 
-<h2 align="left"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> Stack </h2> <p align="left"> 
+<h2 align="left"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sports%20Medal.webp" alt="Sports Medal" width="25" height="25" /> Stack </h2> <p align="left"> 
 
 At some point in my life I have worked with:
 
-- Data Analysis: Excel, R/Rstudio (Tidyverse), Python (Pandas, Dask, Polars), Databricks (PySpark), Minitab and SPSS
-- Machine Learning: R/Rstudio (glm, forecast, tidymodels), Python (sklearn, keras, hierarchical_forecast), MLFLow and Orange
-- Deep Learning: Keras and TensorFlow
-- Artificial Inteligence: LangChain, HuggingFace and OpenAI API
-- Database: MySQL, PostgreSQL, Google BigQuery, SQLite, HiveSQL, PrestoSQL, SparkSQL and DBT
-- Data visualization: Excel, R/Rstudio (ggplot2, plotly, Rmarkdown, shiny), Python (matplotlib, seaborn, plotly, plotnine, bokeh, streamlit), PowerBI, Tableau and DataStudio/LookerStudio
-- Code versioning: Git (Github, Gitlab)
-- Orchestration: Airflow
-- Cloud: AWS, Azure and GCP
+- **Data Analysis**: Excel, R/Rstudio (Tidyverse), Python (Pandas, Dask, Polars), Databricks (PySpark), Minitab and SPSS
+- **Machine Learning**: R/Rstudio (glm, forecast, tidymodels), Python (sklearn, keras, hierarchical_forecast), MLFLow and Orange
+- **Deep Learning**: Keras and TensorFlow
+- **Artificial Inteligence**: LangChain, HuggingFace and OpenAI API
+- **Database**: MySQL, PostgreSQL, Google BigQuery, SQLite, HiveSQL, PrestoSQL, SparkSQL and DBT
+- **Data visualization**: Excel, R/Rstudio (ggplot2, plotly, Rmarkdown, shiny), Python (matplotlib, seaborn, plotly, plotnine, bokeh, streamlit), PowerBI, Tableau and DataStudio/LookerStudio
+- **Code versioning**: Git (Github, Gitlab)
+- **Orchestration**: Airflow
+- **Cloud**: AWS, Azure and GCP
 
 
-<h2 align="left"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Closed%20Mailbox%20with%20Lowered%20Flag.png" alt="Closed Mailbox with Lowered Flag" width="25" height="25" /> Social   </h2>
+<h2 align="left"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Outbox%20Tray.webp" alt="Outbox Tray" width="25" height="25" /> Social   </h2>
 
 <p align="left">
 <a href="https://twitter.com/rafaelbarbosas_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rafaelbarbosas_" height="30" width="40" /></a>
