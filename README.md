@@ -12,7 +12,7 @@ Previously, I worked at:
 
 If you’d like to see some of the projects I’ve worked on using exploratory data analysis, visualization, and statistical modeling/machine learning check it out:
 
-- WIP - [Customer churn prediction](https://github.com/barbosarafael/churn-prediction) (EN)
+- [Customer churn prediction](https://github.com/barbosarafael/churn-prediction) (EN)
 - [Multiple time series forecast](https://github.com/barbosarafael/multiple-time-series-forecast) (PT-BR)
 - [Tutorial about Polars in Python](https://github.com/barbosarafael/polars_python_test) (PT-BR)
 - [Roadmap in Data Science](https://github.com/barbosarafael/roadmap_aprendizado_data_science)
